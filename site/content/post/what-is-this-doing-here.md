@@ -10,3 +10,12 @@ This is **not** a site about dogs.
 
 *Thank you.*
 
+OK, just kidding, you can stay. Besides, I really need a block of text I can muck around with while I figure out how this thing works. Now I'm going to get repetitive... OK, just kidding, you can stay. Besides, I really need a block of text I can muck around with while I figure out how this thing works. Now I'm going to get repetitive... OK, just kidding, you can stay. Besides, I really need a block of text I can muck around with while I figure out how this thing works. Now I'm going to get repetitive...
+
+```
+<html>
+  <body>
+    Boo!
+  </body>
+</html>
+```
