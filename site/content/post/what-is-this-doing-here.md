@@ -12,6 +12,8 @@ This is **not** a site about dogs.
 
 OK, just kidding, you can stay. Besides, I really need a block of text I can muck around with while I figure out how this thing works. Now I'm going to get repetitive... OK, just kidding, you can stay. Besides, I really need a block of text I can muck around with while I figure out how this thing works. Now I'm going to get repetitive... OK, just kidding, you can stay. Besides, I really need a block of text I can muck around with while I figure out how this thing works. Now I'm going to get repetitive...
 
+
+
 ```
 <html>
   <body>
@@ -19,3 +21,7 @@ OK, just kidding, you can stay. Besides, I really need a block of text I can muc
   </body>
 </html>
 ```
+
+And an image?
+
+![](img/about-single-origin.jpg)
